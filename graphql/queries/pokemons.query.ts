@@ -8,6 +8,7 @@ export const PokemonsQuery = gql`
             id
             number
             name
+            image
         }
     }
 `
